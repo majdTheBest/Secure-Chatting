@@ -30,7 +30,7 @@ This project aims to create a secure chat between a client and server using asym
 
 ## Useful Links
 - [رابط الفيديو على YouTube](https://www.youtube.com) (https://youtu.be/2jE1nGcT3Xg)
-- [رابط الكود على GitHub](https://github.com/username/repository) (قم بإضافة الرابط هنا)
+- [رابط الكود على GitHub](https://github.com/username/repository) (https://github.com/majdTheBest/Secure-Chatting)
 
 ## Student Names
 - **الطلاب المشاركين في المشروع**:
